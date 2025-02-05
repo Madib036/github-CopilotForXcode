@@ -1,0 +1,10 @@
+- pipe: atlassian/firebase-deploy:5.1.1
+  variables:
+    KEY_FILE: '<string>'
+    FIREBASE_TOKEN: '<string>'
+    # PROJECT_ID: '<string>' # Optional.
+    # NODE_JS_VERSION: '<string>' # Optional.
+    # MESSAGE: '<string>' # Optional.
+    # EXTRA_ARGS: '<string>' # Optional.
+    # MULTI_SITES_CONFIG: '<json>' # Optional
+    # DEBUG: '<boolean>' # Optional.
