@@ -1,0 +1,4 @@
+﻿User Principal Name [userUPN],MFA Status [mfaStatus]
+jsmith@contoso.com,Enabled
+sjones@contoso.com,Disabled
+tmiles@contoso.com,Enforced
