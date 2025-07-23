@@ -1,6 +1,5 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
+  "features": {```$ ~bash update devcontainer.json to devcontainer.git/workspace.md```
   }
 }
-update devcontainer.json to devcontainer.git
