@@ -1,4 +1,2 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {update devcontainer.json to contributing.md
-  }
+{"image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {update to contributing.md}}
