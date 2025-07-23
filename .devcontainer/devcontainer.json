@@ -1,4 +1,4 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {update devcontainer.json to devcontainer.git/workspace.md
+  "features": {update devcontainer.json to contributing.md
   }
